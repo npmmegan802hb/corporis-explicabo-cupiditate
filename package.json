@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmmegan802hb/corporis-explicabo-cupiditate",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmmegan802hb/corporis-explicabo-cupiditate.git"
   },
   "dependencies": {
+    "@npmmegan802hb/velit-necessitatibus-illo": "^1.0.0"
   }
 }
